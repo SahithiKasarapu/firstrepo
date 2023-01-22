@@ -1,5 +1,5 @@
 A Alligator
 B Bat
-C Cougar
+C crow
 D Duck
-E Elephant
+E Eagle
